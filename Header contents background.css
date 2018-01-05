@@ -1,0 +1,5 @@
+/* Header contents background */ 
+#grid_bg_effect_container.et_pb_fullwidth_header .et_pb_fullwidth_header_container .header-content { 
+    background: rgba(0, 0, 0, 0.65); 
+    padding: 25px; 
+}
